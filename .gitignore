@@ -13,3 +13,5 @@ CMakeUserPresets.json
 
 chippy
 chippy.exe
+
+.vscode/
